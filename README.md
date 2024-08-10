@@ -1,12 +1,11 @@
-<h1 align="center">Hello👋, I'm Bhavya Parmar</h1>
+<h1 align="center">Hello👋,  Welcome to my profile! I'm thrilled to have you here.</h1>
 <h3 align="left"> 👨‍💻 About Me</h3>
-<h4 align="left">
-I’m a passionate software developer with a strong focus on Big Data and analytics. 
-  My journey started with a deep interest in uncovering patterns in data, and it has led me to specialize in transforming raw data into actionable insights. 
-  I’ve worked extensively with AWS to design scalable and efficient data architectures, ensuring seamless data integration across systems. 
-  My expertise also includes real-time data processing and event streaming using Apache Kafka, which allows me to build robust data pipelines that drive meaningful decisions.</h4>
+<h5 align="left">
+I'm Bhavya Parmar, currently delving deep into the field of Information Systems as I pursue my Master's at Northeastern University. With a strong background in Computer Science from the University of Mumbai, my fascination lies at the intersection of technology and data.
+I find immense joy in the continuous journey of learning, always eager to expand my understanding of how technology can address complex challenges. My professional experiences have been incredibly enriching, providing me with a profound appreciation for data-driven decision-making and the value of innovative thinking.
+With expertise in cloud technologies, especially AWS, I am passionate about their transformative potential and thrive in collaborative environments that foster innovation.</h5>
 
-  <img align = "right" alt = "breakfast" width = "450" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE4cW40dXR6cmR5ZTB3N3c2ZWVib2x3NDhkNW12cTU2Nm0xMTdhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
+<img align = "right" alt = "breakfast" width = "450" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE4cW40dXR6cmR5ZTB3N3c2ZWVib2x3NDhkNW12cTU2Nm0xMTdhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyasparmar&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyasparmar" /> </p>
 
@@ -34,3 +33,7 @@ I’m a passionate software developer with a strong focus on Big Data and analyt
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyasparmar&show_icons=true&locale=en&layout=compact" alt="bhavyasparmar" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyasparmar&" alt="bhavyasparmar" /></p>
+
+<br><br><br><br><br><br><br><br>
+
+<h4 align="left"> <h4 align="center"> Thanks for dropping by! Happy coding! 😊</h4>
