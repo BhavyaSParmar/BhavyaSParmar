@@ -34,6 +34,6 @@ With expertise in cloud technologies, especially AWS, I am passionate about thei
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyasparmar&" alt="bhavyasparmar" /></p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <h4 align="left"> <h4 align="center"> Thanks for dropping by! Happy coding! 😊</h4>
