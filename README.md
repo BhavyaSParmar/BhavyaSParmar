@@ -1,9 +1,10 @@
 <h1 align="center">Hello👋,  Welcome to my profile! I'm thrilled to have you here.</h1>
 <h3 align="left"> 👨‍💻 About Me</h3>
 <h5 align="left">
-I'm Bhavya Parmar, currently delving deep into the field of Information Systems as I pursue my Master's at Northeastern University. With a strong background in Computer Science from the University of Mumbai, my fascination lies at the intersection of technology and data.
-I find immense joy in the continuous journey of learning, always eager to expand my understanding of how technology can address complex challenges. My professional experiences have been incredibly enriching, providing me with a profound appreciation for data-driven decision-making and the value of innovative thinking.
-With expertise in cloud technologies, especially AWS, I am passionate about their transformative potential and thrive in collaborative environments that foster innovation.</h5>
+I'm Bhavya Parmar, currently pursuing a Master's in Information Systems at Northeastern University. With a strong foundation in Computer Science from the University of Mumbai, my passion lies in the data domain, where technology and data converge to create impactful solutions. I am particularly interested in how data can be harnessed to generate meaningful insights and drive informed decision-making.
+
+My professional experience has deepened my expertise in data analysis, ETL processes, and cloud technologies like AWS, allowing me to transform raw data into actionable intelligence. I thrive in environments that encourage innovation and collaboration, and I am continually driven by the opportunity to expand my understanding of how data can solve complex challenges.
+</h5>
 
 <img align = "right" alt = "breakfast" width = "450" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE4cW40dXR6cmR5ZTB3N3c2ZWVib2x3NDhkNW12cTU2Nm0xMTdhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
