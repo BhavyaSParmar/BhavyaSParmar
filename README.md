@@ -9,7 +9,7 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyasparmar&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyasparmar" /> </p>
 
-- 🌱 I’m learning about **LLM's, AWS, Kafka & Informatica**
+- 🌱 I’m learning about **LLMs, AWS, Kafka & Informatica**
 
 - 📝 I regularly write articles on [https://medium.com/%40bhavyasparmar402](https://medium.com/%40bhavyasparmar402)
 
