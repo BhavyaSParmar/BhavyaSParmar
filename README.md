@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Bhavya Parmar</h1>
-<h3 align="center"> 👨‍💻 About Me</h3>
+<h3 align="left"> 👨‍💻 About Me</h3>
 <h4 align="left">
 I’m a passionate software developer with a strong focus on Big Data and analytics. 
   My journey started with a deep interest in uncovering patterns in data, and it has led me to specialize in transforming raw data into actionable insights. 
