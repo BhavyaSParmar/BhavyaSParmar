@@ -5,6 +5,8 @@ I'm Bhavya Parmar, currently pursuing a Master's in Information Systems at North
 My professional experience has deepened my expertise in data analysis, ETL processes, and cloud technologies like AWS, allowing me to transform raw data into actionable intelligence. I thrive in environments that encourage innovation and collaboration, and I am continually driven by the opportunity to expand my understanding of how data can solve complex challenges.
 </h4>
 
+##
+
 <img align = "right" alt = "breakfast" width = "450" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE4cW40dXR6cmR5ZTB3N3c2ZWVib2x3NDhkNW12cTU2Nm0xMTdhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyasparmar&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyasparmar" /> </p>
