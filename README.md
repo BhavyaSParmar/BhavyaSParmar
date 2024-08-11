@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋,  Welcome to my profile! I'm thrilled to have you here.</h1>
-<h3 align="left"> 🧑🏻‍💻 About Me</h3>
+<h3 align="left"> 🧑🏻‍💻 About Me:</h3>
 <h4 align="left">
 I'm Bhavya Parmar, currently pursuing a Master's in Information Systems at Northeastern University. With a strong foundation in Computer Science from the University of Mumbai, my passion lies in the data domain, where technology and data converge to create impactful solutions. I am particularly interested in how data can be harnessed to generate meaningful insights and drive informed decision-making.
 My professional experience has deepened my expertise in data analysis, ETL processes, and cloud technologies like AWS, allowing me to transform raw data into actionable intelligence. I thrive in environments that encourage innovation and collaboration, and I am continually driven by the opportunity to expand my understanding of how data can solve complex challenges.
