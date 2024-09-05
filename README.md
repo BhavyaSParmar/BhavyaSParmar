@@ -1,8 +1,7 @@
 <h1 align = "left">
-
+	
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4682B4&size=33&lines=Hello+World👋!!!!;I'm+Bhavya+Parmar!;I'm+a+Data+Enthusiast!)
 </h1>
-
 <h1 align="left">Welcome to my profile! I'm thrilled to have you here.</h1>
 <h3 align="left"> 🧑🏻‍💻 About Me:</h3>
 <h4 align="justify">
