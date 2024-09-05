@@ -53,10 +53,9 @@ My professional experience has deepened my expertise in data analysis, ETL proce
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdharmil11&&show_icons=true&locale=en&theme=algolia" alt="shahdharmil11" />
   <br/>
     <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> The Top metric serves solely as an indicator of the languages present in my public code repositories and should not be interpreted as a reflection of my experience or skill level.
   </p>
-<be>
-<br>
+
 
 ## <h3 align="left">✍️ Random Dev Quote: </h3>
 <div align="center">
