@@ -3,13 +3,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri(Body)&color=4682B4&size=33&lines=Hello+World👋!!!!;I'm+Bhavya+Parmar!;And+I'm+a+Data+Enthusiast!)
 </h1>
 <h1 align="left">Welcome to my profile! I'm thrilled to have you here.</h1>
+
 <h3 align="left"> 🧑🏻‍💻 About Me:</h3>
 <h4 align="justify">
 I'm currently pursuing a Master's in Information Systems at Northeastern University. With a strong foundation in Computer Science from the University of Mumbai, my passion lies in the data domain, where technology and data converge to create impactful solutions. I am particularly interested in how data can be harnessed to generate meaningful insights and drive informed decision-making.
 My professional experience has deepened my expertise in data analysis, ETL processes, and cloud technologies like AWS, allowing me to transform raw data into actionable intelligence. I thrive in environments that encourage innovation and collaboration, and I am continually driven by the opportunity to expand my understanding of how data can solve complex challenges.
 </h4>
 
-##
 
 <img align = "right" alt = "breakfast" width = "450" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE4cW40dXR6cmR5ZTB3N3c2ZWVib2x3NDhkNW12cTU2Nm0xMTdhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
@@ -45,9 +45,6 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 
  <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bhavya-Parmar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavyasparmar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-    <br>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyasparmar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="bhavyasparmar" height="192px"/>
   <br/>
