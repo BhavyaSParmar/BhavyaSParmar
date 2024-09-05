@@ -59,9 +59,10 @@ My professional experience has deepened my expertise in data analysis, ETL proce
     <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+<be>
 <br>
 
-## <h3 align="center">✍️ Random Dev Quote: </h3>
+## <h3 align="left">✍️ Random Dev Quote: </h3>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </div>
