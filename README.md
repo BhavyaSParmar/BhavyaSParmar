@@ -50,10 +50,6 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyasparmar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="bhavyasparmar" height="192px"/>
   <br/>
     <br>
-  &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyasparmar&&show_icons=true&locale=en&theme=algolia" alt="bhavyasparmar" />
-  <br/>
-    <br>
   <b>Note:</b> The Top metric serves solely as an indicator of the languages present in my public code repositories and should not be interpreted as a reflection of my experience or skill level.
   </p>
 
