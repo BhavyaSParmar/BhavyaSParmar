@@ -24,7 +24,7 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 
 - 📫 I love to read emails, at [G-mail](https://mail.google.com/mail/u/1/#inbox)
 
-- 🚀 Fun Fact about me  **when I’m not coding, I’m either lifting weights at the gym🏋️‍♂️ or getting creative in the kitchen, experimenting with new recipes and flavors.**
+- 🚀 Fun Fact about me  **When I’m not coding, I’m either lifting weights at the gym🏋️‍♂️ or getting creative in the kitchen, experimenting with new recipes and flavors.**
 
 ##
 
