@@ -1,6 +1,6 @@
 <h1 align = "left">
 	
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&color=4682B4&size=33&lines=Hi+There👋!!;I'm+Bhavya+Parmar!;And+I'm+a+Data+Enthusiast!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&color=4682B4&size=33&lines=Hi+There👋;I'm+Bhavya+Parmar!;And+I'm+a+Data+Enthusiast!)
 
 </h1>
 <h1 align="left">Welcome to my profile! I'm thrilled to have you here🌟 </h1>
