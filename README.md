@@ -55,9 +55,10 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 
 
 ## <h3>✍️Random Dev Quote: </h3>
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
-##
+</div>
 
 <h3 align="center"> <h3 align="center"> Thanks for dropping by! Happy coding! 😊</h3>
