@@ -57,7 +57,7 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 ## <h3>✍️Random Dev Quote: </h3>
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=soft-green)
 
 </div>
 
