@@ -64,3 +64,6 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 ##
 
 <h3 align="center"> <h3 align="center"> Thanks for dropping by! Happy coding! 😊</h3>
+
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
