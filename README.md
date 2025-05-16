@@ -28,13 +28,26 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 
 ##
 
-<h3 align="left"> 📮 Connect with me:</h3>
+<h3 align="left">📮 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhavyasparrmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavyasparrmar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavya parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya parmar" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavvyaparrmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavvyaparrmar" height="30" width="40" /></a>
-<a href="https://medium.com/@bhavyasparmar402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhavyasparmar402" height="30" width="40" /></a>
+  <a href="https://twitter.com/bhavyasparrmar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavyasparrmar" height="30" width="40" />
+  </a>
+  
+  <a href="https://linkedin.com/in/bhavya%20parmar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya parmar" height="30" width="40" />
+  </a>
+
+ <a href="https://instagram.com/bhavvyaparrmar" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="bhavvyaparrmar" height="30" width="30" style="margin-right:10px;" />
+</a>
+
+
+  <a href="https://medium.com/@bhavyasparmar402" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhavyasparmar402" height="30" width="40" />
+  </a>
 </p>
+
 
 ##
 
