@@ -18,13 +18,13 @@ My professional experience has deepened my expertise in data analysis, ETL proce
 
 - 🌱 I’m learning about **LLMs, AWS, Kafka & Informatica**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/%40bhavyasparmar402)
-
 - 💬 Ask me about **SQL, Python, PowerBI & Tableau**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/%40bhavyasparmar402)
 
 - 🌐 Check out my [Personal Website](https://bhavyaparmar.com/) to explore the creative side of me!
 
-- 📫 I love to read emails, at [G-mail](https://mail.google.com/mail/u/1/#inbox)
+- 📫 I love to read emails, at my [G-mail](https://mail.google.com/mail/u/1/#inbox)
 
 - 🚀 Fun Fact about me  **When I’m not coding, I’m either lifting weights at the gym🏋️‍♂️ or getting creative in the kitchen, experimenting with new recipes and flavors.**
 
